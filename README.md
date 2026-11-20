@@ -58,8 +58,8 @@ STEP 4 Go to the Johnny GUI and and upload the .txt document. Your PDF file pass
 
 Now you can use the password gotten to open the encrypted document!
 
+<img width="705" height="551" alt="2 lock pdf" src="https://github.com/user-attachments/assets/e4fa60bb-995b-4d9e-b8fd-c3311c934a4f" />
 
-![Uploading 2 lock pdf.PNG…]()
 
 
 1️⃣ Password Cracking with Networkwalks Tools
