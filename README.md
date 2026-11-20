@@ -1,4 +1,4 @@
-[hash1.txt](https://github.com/user-attachments/files/35120297/hash1.txt)# Week3-Password-cracking
+Week3-Password-cracking:
 Cracking a password from a locked PDF using John the Ripper (JTR) and NETWORKWALKS tools involves extracting the password hash from the protected PDF and testing candidate passwords against it to find a match.
 
 networkwalks-B082-week3
@@ -7,10 +7,10 @@ Password Cracking with JTR and Networkwalks Tools
 🔐 PENETRATION TESTING REPORT: Password Cracking (networkwalks.com)
           
 
-Pentester Name	Ibunkunoluwa Fasesan
-Program/Batch	B082-Networkwalks
-Date	27th August 2026
-Modules completed	W3-PM1 (Password cracking with JTR); W3-PM2 (Password Cracking with Networwalks tools)
+Pentester Name	Aleesha Naseer
+Program/Batch	B084-Networkwalks
+Date	20 November 2026
+Modules completed	(Password cracking with JTR),(Password Cracking with Networwalks tools)
 Client/Target	3 encrypted/locked documents
 Permission secured from client?	Yes
 🔔 Liability Disclaimer
@@ -52,7 +52,10 @@ STEP 3 Upload the locked PDF in the onlinehashcracker.com pdf hash extractor to 
 
 <img width="834" height="579" alt="password 3" src="https://github.com/user-attachments/assets/0ecbb379-6e43-4d35-9ea7-072d3a74dad8" />
 <img width="731" height="464" alt="extract pdf" src="https://github.com/user-attachments/assets/275a2822-d5f0-4559-8cec-84d3cf419bde" />
-[Uploadin$pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226dffc39f7909ea0021446990b9e4114071a4d9104984c1*32*9322f50c29569712067a775264635e4954ccb1b99e209d664984054ffad30a6ag hash1.txt…]()
+
+$pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226dffc39f7909ea0021446990b9e4114071a4d9104984c1*32*9322f50c29569712067a775264635e4954ccb1b99e209d664984054ffad30a6a
+[hash1.txt](https://github.com/user-attachments/files/35121218/hash1.txt)
+
 STEP 4 Go to the Johnny GUI and and upload the .txt document. Your PDF file password will be cracked (it might take some time depending on your computer speed & password complexity.
 <img width="704" height="421" alt="password" src="https://github.com/user-attachments/assets/5665000b-95d1-45f2-9964-4769684e87ef" />
 
@@ -68,10 +71,22 @@ Networkswalks also has some tools that can be used in the cybersecurity space. F
 This are the steps followed to crack the document MY LOCKED PDF1
 
 STEP 1 Open the Hash Calculator an any web browser on your PC https://networkwalks.com/hash-calculator/
+
+
+<img width="1199" height="597" alt="hash calculator" src="https://github.com/user-attachments/assets/b894a30c-9550-442a-a422-be278b41849f" />
+
 STEP 2 Upload the encrypted document into the PDF section of the website and copy the hash provided.
+
+
+<img width="1122" height="638" alt="file 2" src="https://github.com/user-attachments/assets/bd480232-979a-445d-9feb-a8f6e0cb713c" />
 The Hash Calculator also gives you to ability to download .txt document to be used in other crackers like the JTR.
+<img width="1048" height="642" alt="Capture" src="https://github.com/user-attachments/assets/9da94ead-a40a-4465-b563-9ca17b6d41cd" />
+
 STEP 3 Open the Password Cracker using this link https://networkwalks.com/password-cracker/ and paste the hash to start cracking.
 Using the in built directories did not provide the right password so I add to attach my own directory from the JTR_default_password.txt. This document contains an accumulation of commonly used password, other webpages that have been cracked like Facebook and Adobe also have their own .txt accumulated document.
+
+<img width="1183" height="335" alt="1" src="https://github.com/user-attachments/assets/143f9e24-0921-4ca4-a9c4-241b3971f76b" />
+
 Click on upload wordlist and select the directory you want to try, one the system recognizes the right password, you would be able to download it and unlock your PDF document.
 🔚 Conclusion
 This week 3 project helped understand why more complex passwords or alphanumeric passwords are more secure. Easier passwords would be easier to crack using directories or already in built Johnny directory and would also take less time for the attacker to get access to information without stress. More complex passwords take more time to get into. I even created my own locked pdf with a very complex password and the system took a long time trying to crack into it.
