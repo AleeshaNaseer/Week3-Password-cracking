@@ -1,4 +1,4 @@
-# Week3-Password-cracking
+[hash1.txt](https://github.com/user-attachments/files/35120297/hash1.txt)# Week3-Password-cracking
 Cracking a password from a locked PDF using John the Ripper (JTR) and NETWORKWALKS tools involves extracting the password hash from the protected PDF and testing candidate passwords against it to find a match.
 
 networkwalks-B082-week3
@@ -46,6 +46,21 @@ This are the steps followed to crack the document MY LOCKED PDF1
 STEP 1 Download John the Ripper on the window PC (or any other PC it supports) and John GUI
 
 <img width="1340" height="625" alt="Download" src="https://github.com/user-attachments/assets/c61d24a7-36b6-4c02-885d-cbb8bf0caaa2" />
+
+STEP 2 Extract the JTR download and locate the john.exe int the document (john-1.9.0-jumbo-1-win64--john-1.9.0-jumbo-1-win64--run--john.exe) and add it to the Johnny GUI
+STEP 3 Upload the locked PDF in the onlinehashcracker.com pdf hash extractor to get the hashing
+
+<img width="834" height="579" alt="password 3" src="https://github.com/user-attachments/assets/0ecbb379-6e43-4d35-9ea7-072d3a74dad8" />
+<img width="731" height="464" alt="extract pdf" src="https://github.com/user-attachments/assets/275a2822-d5f0-4559-8cec-84d3cf419bde" />
+[Uploadin$pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226dffc39f7909ea0021446990b9e4114071a4d9104984c1*32*9322f50c29569712067a775264635e4954ccb1b99e209d664984054ffad30a6ag hash1.txt…]()
+STEP 4 Go to the Johnny GUI and and upload the .txt document. Your PDF file password will be cracked (it might take some time depending on your computer speed & password complexity.
+<img width="704" height="421" alt="password" src="https://github.com/user-attachments/assets/5665000b-95d1-45f2-9964-4769684e87ef" />
+
+Now you can use the password gotten to open the encrypted document!
+
+
+![Uploading 2 lock pdf.PNG…]()
+
 
 1️⃣ Password Cracking with Networkwalks Tools
 Networkswalks also has some tools that can be used in the cybersecurity space. For this project, we mainly focused on the Hash Calculator and the Password Cracker tool. They are free online tools that can also be used to crack the password of an encrypted document using directories.
