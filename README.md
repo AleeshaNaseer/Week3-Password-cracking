@@ -53,8 +53,8 @@ STEP 3 Upload the locked PDF in the onlinehashcracker.com pdf hash extractor to 
 <img width="834" height="579" alt="password 3" src="https://github.com/user-attachments/assets/0ecbb379-6e43-4d35-9ea7-072d3a74dad8" />
 <img width="731" height="464" alt="extract pdf" src="https://github.com/user-attachments/assets/275a2822-d5f0-4559-8cec-84d3cf419bde" />
 
-$pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226dffc39f7909ea0021446990b9e4114071a4d9104984c1*32*9322f50c29569712067a775264635e4954ccb1b99e209d664984054ffad30a6a
-[hash1.txt](https://github.com/user-attachments/files/35121218/hash1.txt)
+<img width="1019" height="187" alt="notepad" src="https://github.com/user-attachments/assets/e9016278-fd04-4b55-92cc-ae4ab916f572" />
+
 
 STEP 4 Go to the Johnny GUI and and upload the .txt document. Your PDF file password will be cracked (it might take some time depending on your computer speed & password complexity.
 <img width="704" height="421" alt="password" src="https://github.com/user-attachments/assets/5665000b-95d1-45f2-9964-4769684e87ef" />
@@ -92,3 +92,64 @@ Click on upload wordlist and select the directory you want to try, one the syste
 This week 3 project helped understand why more complex passwords or alphanumeric passwords are more secure. Easier passwords would be easier to crack using directories or already in built Johnny directory and would also take less time for the attacker to get access to information without stress. More complex passwords take more time to get into. I even created my own locked pdf with a very complex password and the system took a long time trying to crack into it.
 
 Secondly, as a cybersecurity analyst, I realized that password only security is not sufficient anymore. In this fast paced tech centered environment, in other to keep your information secure, a multi factor authentication method should be implemented, instead of just one security door guarding all infrastructure information.
+
+
+# Wordlist Generator – Cybersecurity Exploration
+
+## 📌 Project Overview
+As part of my cybersecurity learning journey, I independently explored a **Wordlist Generator** tool developed by NetworkWalks.
+
+This tool helps create customized wordlists for cybersecurity labs, password security education, and authorized penetration-testing activities.
+
+## 🎯 Features Explored
+- Adding base words such as names, keywords, and other terms.
+- Generating lowercase, uppercase, and capitalized variations.
+- Applying leetspeak transformations.
+- Combining word pairs.
+- Generating reversed words.
+- Adding symbols, numbers, and years.
+- Setting minimum and maximum password lengths.
+- Generating unique password candidates.
+- Downloading generated wordlists in `.txt` format.
+
+## 📝 Steps Performed
+
+**Step 1: Open the Wordlist Generator**
+
+I opened the NetworkWalks Wordlist Generator tool in my browser and explored its interface and available options.
+
+<img width="877" height="589" alt="explore" src="https://github.com/user-attachments/assets/8b527f6b-69bd-4687-bf74-9e9b945cd837" />
+
+
+
+**Step 2: Enter Base Words and Explore Features**
+
+I entered sample base words such as Waqas, Karim, and CCIE, then explored different mutation options, including lowercase, uppercase, capitalized, leetspeak, combined word pairs, and reversed words. I also explored additional settings for generating customized wordlists.
+
+
+<img width="1029" height="577" alt="word list" src="https://github.com/user-attachments/assets/b28caa92-8694-409a-a810-ea8f2a7fcd64" />
+
+## 🛠️ Practical Exploration
+I explored the tool independently and tested its different features to understand how customized wordlists are generated.
+
+I also learned how different word combinations and variations can be used in password-security testing.
+
+## 📚 Learning Outcomes
+- Understood the basic concept of wordlist generation.
+- Explored password variations and mutations.
+- Learned about customized wordlist creation.
+- Improved my understanding of password security testing.
+- Gained practical exposure to cybersecurity tools.
+
+
+
+
+## 🔐 Ethical Considerations
+This tool should only be used for educational purposes, security labs, and authorized penetration testing. Testing against systems or accounts without permission is not acceptable.
+
+## ✅ Conclusion
+This independent exploration helped me understand wordlist generation and its role in cybersecurity and password security assessments.
+
+
+
+
