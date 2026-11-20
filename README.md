@@ -45,6 +45,7 @@ This are the steps followed to crack the document MY LOCKED PDF1
 
 STEP 1 Download John the Ripper on the window PC (or any other PC it supports) and John GUI
 
+<img width="1340" height="625" alt="Download" src="https://github.com/user-attachments/assets/c61d24a7-36b6-4c02-885d-cbb8bf0caaa2" />
 
 1️⃣ Password Cracking with Networkwalks Tools
 Networkswalks also has some tools that can be used in the cybersecurity space. For this project, we mainly focused on the Hash Calculator and the Password Cracker tool. They are free online tools that can also be used to crack the password of an encrypted document using directories.
